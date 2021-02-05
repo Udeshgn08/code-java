@@ -5,10 +5,30 @@ Java problem set is a set of tasks to solve coding problems
 that are assigned by Princeton,UCSanDiego,leetcode for training purpose.   
 
 ##Guidance  
- -Recommended reference site: oracle docs java SE8,tutorialspoint,geeksforgeeks
+ -Online reference for installation and training purpose: oracle docs java SE8,stackoverflow,geeksforgeeks,MIT opencourse, 
+  Princeton Programming in Java, UCSanDiego's coursera course - Java:DS and beyond.  
  -Java 8 version.To understand language changes 
  -Eclipse IDE
  -Initiate from Code java in small:Programming environment,variables,data type, operators and expression, 
   condition and iteration. 
- -learn git through command line interface.However,it is also acceptable to use GUI client to perform git operations.
+ -learn git workflow, command(CLI is highly recommended).However,it is also acceptable to use GUI client to perform git operations.
+
+##Vi  
+  i-->insert,w-->write,wq-->save and exit,q-->quit 
+ Hit esc and type :w. Try reading your file written message. 
+ 
+ ## 
+ A plan to setup java development 
+ 3 hour - Review basic linux commands
+ 1 hour - Know about Java programming environment and classpath 
+ 1 hour - Installation and configuration     
+ 
+ 1. Mission "First 10 program"  
+    Write your code in Vi editor and compile, run only in CLI 
+    this will help to understand things like JRE, command line arguments, run-time error 
+    and compile-time error with a good starting point you can use IDE's such as Eclipse, 
+    IntelliJ and so on, which will take to next step,some more code in packages. 
+ 
+ 
+ 
  

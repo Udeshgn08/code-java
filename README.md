@@ -23,12 +23,5 @@ that are assigned by Princeton,UCSanDiego,leetcode for training purpose.
  1 hour - Know about Java programming environment and classpath 
  1 hour - Installation and configuration     
  
- 1. Mission "First 10 program"  
-    Write your code in Vi editor and compile, run only in CLI 
-    this will help to understand things like JRE, command line arguments, run-time error 
-    and compile-time error with a good starting point you can use IDE's such as Eclipse, 
-    IntelliJ and so on, which will take to next step,some more code in packages. 
- 
- 
  
  

@@ -18,10 +18,10 @@ Guidance
   
  -learn git workflow, command(CLI is highly recommended).However,it is also acceptable to use GUI client to perform git operations.
 
-Vi  
+Vi editor 
   i-->insert,w-->write,wq-->save and exit,q-->quit
  
- Standard plan to setup java development 
+Standard plan to setup java development 
  
  3 hour - Review basic linux commands along side using core text editor
  

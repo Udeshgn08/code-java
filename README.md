@@ -1,7 +1,6 @@
 ## UdeshKumar Ganesan
 
-## General information:
-
+## General information
 Java is a class based object oriented programming language that supports to run applications on all platforms without the need of recompilation. 
 Java programming language plays major role in developing gaming applications, server, web based applications and there are lot other - wide range of 
 software applications can be developed in Java. 

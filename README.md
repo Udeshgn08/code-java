@@ -1,12 +1,12 @@
 ## UdeshKumar Ganesan
 
-##General information
+General information
 
 Java is a class based object oriented programming language that supports to run applications on all platforms without the need of recompilation. 
 Java programming language plays major role in developing gaming applications, server, web based applications and there are lot other - wide range of 
 software applications can be developed in Java. 
 
-##Guidance:
+Guidance
 
  -Online reference for installation and training purpose: oracle docs java SE8,stackoverflow,MIT opencourse, 
   Princeton Programming in Java, Java 8 Essential training - linkedin learning 
@@ -18,10 +18,10 @@ software applications can be developed in Java.
   
  -learn git workflow, command(CLI is highly recommended).However,it is also acceptable to use GUI client to perform git operations.
 
-##Vi  
+Vi  
   i-->insert,w-->write,wq-->save and exit,q-->quit
  
- ##Standard plan to setup java development 
+ Standard plan to setup java development 
  
  3 hour - Review basic linux commands along side using core text editor
  

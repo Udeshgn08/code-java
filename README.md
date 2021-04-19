@@ -23,11 +23,11 @@ Vi editor
  
 Standard plan to setup java development 
  
- 3 hour - Review basic linux commands along side using core text editor
- 
  1 hour - Know about Java programming environment and classpath 
  
  1 hour - Installation and configuration
+ 
+ Beginner Linux user; Additional 2 hour - Review basic command line along side using core text editor
  
  
  

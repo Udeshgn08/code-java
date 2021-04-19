@@ -6,6 +6,7 @@ Java programming language plays major role in developing gaming applications, se
 software applications can be developed in Java. 
 
 ##Guidance:
+
  -Online reference for installation and training purpose: oracle docs java SE8,stackoverflow,MIT opencourse, 
   Princeton Programming in Java, Java 8 Essential training - linkedin learning.   
  -Eclipse IDE
@@ -17,6 +18,7 @@ software applications can be developed in Java.
   i-->insert,w-->write,wq-->save and exit,q-->quit
  
  ##Standard plan to setup java development 
+ 
  3 hour - Review basic linux commands along side using core text editor 
  1 hour - Know about Java programming environment and classpath 
  1 hour - Installation and configuration
